@@ -24,3 +24,6 @@ function solution(progresses, speeds) {
 
   return answer;
 }
+
+//풀이 횟수
+//2 (2023.03.13 - 틀림)
