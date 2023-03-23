@@ -1,6 +1,5 @@
 const fs = require("fs");
 let input = fs.readFileSync("EPPER/BOJ1316.txt").toString().split("\n");
-
 let stack = [];
 let answer = 0;
 
